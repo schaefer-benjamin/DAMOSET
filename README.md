@@ -12,7 +12,7 @@ Therefore, a fundamental understanding of the current power system is necessary 
 
 ## Project outreach
 
-Data collected durign the project's lifetime has been published here: https://power-grid-frequency.org/
+Data collected durign the project's lifetime has been published here: [https://power-grid-frequency.org/](https://power-grid-frequency.org/)
 
 ## Project publications (particular highlights)
 
