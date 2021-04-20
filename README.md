@@ -1,5 +1,7 @@
 # DAMOSET
 
+<img src="co-funded-h2020-horiz_en.png" title="Screenshot of the website" height="300"/>
+
 DAMOSET (With data-driven modelling towards a successful energy transition) is funded within the Marie Skłodowska-Curie Actions under grant agreement No 840825 from June 2019 to May 2021.
 
 ## Project description
