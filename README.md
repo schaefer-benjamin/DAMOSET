@@ -14,7 +14,7 @@ Data collected durign the project's lifetime has been published here: https://po
 
 ## Project publications (particular highlights)
 
-E. Mitsokapas, B. Schäfer, R. Harris, C. Beck Statistical Characterization of Airplane Delays, Scientific Reports 11, 7855 (2021) [joint first-authorship] [article https://www.nature.com/articles/s41598-021-87279-8]
+E. Mitsokapas, B. Schäfer, R. Harris, C. Beck Statistical Characterization of Airplane Delays, Scientific Reports 11, 7855 (2021) (joint first-authorship) [article](https://www.nature.com/articles/s41598-021-87279-8)
 
 *** L. R. Gorjão, R. Jumar, H. Maass, V. Hagenmeyer, G. C. Yalcin, J. Kruse, M. Timme, C. Beck, D. Witthaut, B. Schäfer, Open data base analysis of scaling and spatio-temporal properties of power grid frequencies Nature Communications, 11, 6362, 2020 *** 
 
